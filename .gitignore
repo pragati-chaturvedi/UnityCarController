@@ -89,6 +89,9 @@ Thumbs.db
 Prototype 1.sln
 Assembly-*.cs
 
+# Additional file 
+Challenge 1
+
 # =============================
 # Keep package manifest files to ensure dependencies are shared with team
 !Packages/manifest.json
